@@ -1,5 +1,5 @@
 # 🌐 Responsive Landing Page
-
+## Nueva funcionalidad
 ¡Bienvenido al proyecto de la **Landing Page Responsiva**! 🚀 Este proyecto es una página web estática desarrollada con **HTML** y **CSS**, diseñada para poner en práctica conceptos clave de diseño responsivo. La página es completamente adaptable a diferentes dispositivos, desde móviles hasta pantallas de escritorio, ofreciendo una experiencia de usuario óptima en todos los tamaños de pantalla.
 
 ---
